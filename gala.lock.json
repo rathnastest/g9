@@ -27,9 +27,9 @@
     "templateModules": []
   },
   "theme": {
-    "package": "@rathnasgala2/theme-zebra",
+    "package": "@rathnasgala2/theme-flashy",
     "version": "2.1.0",
-    "integrity": "sha256:14fe1a8e29dbeee08c639a195c895ea45fa29e0d0a1165ea52e1b16f9fe87988",
+    "integrity": "sha256:8bd8af4e782a7fc25e89692da6690a70445ab495ea47cf836bbd184c4dc249c8",
     "registry": "https://registry.npmjs.org/",
     "contractVersion": "2.1.0",
     "compatibleWith": "^2.1.0"
